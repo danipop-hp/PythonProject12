@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 Rulare aplicație:
 
-python src/match3_terminal.py
+python src/candy_crush.py
 
 Rezultatele sunt salvate în results/summary.csv.
 
