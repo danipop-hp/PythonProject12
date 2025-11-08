@@ -40,7 +40,7 @@ Rulare aplicație:
 
 python src/candy_crush.py
 
-Rezultatele sunt salvate în results/summary.csv.
+Rezultatele sunt salvate în src/results/summary.csv.
 
 Format fișier rezultate JOC SCOR SWAPURI TINTA_ATINSA 1 9870 120 NU 2 10230 95 DA Teste
 
